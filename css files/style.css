@@ -1,0 +1,95 @@
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.3)), url(../images/hero.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.navbar ul li a:hover {
+    color: #E67E22;
+    text-decoration: underline;
+}
+
+.header1 button {
+    border: solid 1px #E67E22;
+    color: #E67E22;
+    border-radius: 50px;
+}
+
+.header1 button:hover {
+    color: #fff;
+    background-color: #E67E22;
+    border: solid 0px;
+}
+
+.list123 h2 {
+    color: #E67E22;
+    border: #E67E22 solid 2px;
+    border-radius: 50%;
+    padding: 10px 22px;
+
+}
+
+.testimonials {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)), url(../images/back-customers.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.button a button {
+    border: solid 1px #E67E22;
+    color: #E67E22;
+    border-radius: 50px;
+    padding: 10px 50px;
+    margin-left: 62px;
+}
+
+.button a button:hover {
+    color: #fff;
+    background-color: #E67E22;
+    border: solid 0px;
+}
+
+.meal {
+    background: black;
+    overflow: hidden;
+}
+
+.meal img {
+    transform: scale(1.1);
+    opacity: 0.5;
+}
+
+.meal img:hover {
+    transition: 1s;
+    transform: scale(1);
+    opacity: 1;
+}
+.city-info a{
+color: #E67E22;
+}
+.city-info a:hover{
+
+color: #000;
+
+}
+
+
+
+
+.form-btn{
+
+    border: solid 1px #E67E22;
+    color: #E67E22;
+    border-radius: 50px;
+    padding: 10px 25px;
+    
+
+
+}
+.form-btn:hover{
+    color: #fff;
+    background-color: #E67E22;
+    border: solid 0px;
+}
